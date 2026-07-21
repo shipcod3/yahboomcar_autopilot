@@ -13,7 +13,7 @@ avoiding obstacles, and showing you everything it sees live on screen.
 ## 🚀 Quick Start (one command)
 
 ```bash
-sh ~/start_autopilot.sh
+./start_autopilot.sh
 ```
 
 That's it. The script does **everything automatically** on every run:
@@ -163,7 +163,7 @@ ros2 run yahboomcar_autopilot vision_autopilot_node
 
 | Problem | Fix |
 |---------|-----|
-| `Package 'yahboomcar_autopilot' not found` | Run `sh ~/start_autopilot.sh` — it auto-builds |
+| `Package 'yahboomcar_autopilot' not found` | Run `./start_autopilot.sh` — it auto-builds |
 | Camera window not appearing | Make sure `DISPLAY=:0` is set in the container |
 | YOLO not detecting | Check models exist: `ls ~/yahboomcar_autopilot/models/` |
 | Car drives but no window | Run directly with `docker exec -it` (not `-d`) |
