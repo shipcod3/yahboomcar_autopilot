@@ -5,6 +5,8 @@ MicroROS-Car-Pi5 stack (ROS2 Humble). No remote control, no map needed.
 Just put the car on the floor and it drives itself — detecting objects,
 avoiding obstacles, and showing you everything it sees live on screen.
 
+<img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/a5190313-eecc-4b2f-8ed6-e347aea1d203" />
+
 ---
 
 ## 🚀 Quick Start (one command)
