@@ -152,7 +152,7 @@ ros2 run yahboomcar_autopilot vision_autopilot_node
 - Yahboom MicroROS-Car-Pi5 with the stock Docker setup
 - USB/Astra RGB camera connected (camera index 0)
 - YDLIDAR or compatible LiDAR (optional but recommended for safety)
-- Pi5 with at least 2 GB RAM free
+- Pi5 with at least 4 GB RAM free
 - Internet access on first run (to install onnxruntime ~15 MB)
 - Model files pre-downloaded to `~/yahboomcar_autopilot/models/`
 
