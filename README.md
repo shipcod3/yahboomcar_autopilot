@@ -7,6 +7,7 @@ avoiding obstacles, and showing you everything it sees live on screen.
 
 <img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/a5190313-eecc-4b2f-8ed6-e347aea1d203" />
 
+<img width="890" height="463" alt="image" src="https://github.com/user-attachments/assets/f920adff-a63f-4c99-b028-6b343def6a14" />
 ---
 
 ## 🚀 Quick Start (one command)
